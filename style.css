@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:ital,wght@0,700;1,900&display=swap');
+body{
+    background-image: linear-gradient(to bottom right, red ,blue);
+    
+}
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+}
+#para{
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-weight: 800;
+    font-size: 40px;
+}
